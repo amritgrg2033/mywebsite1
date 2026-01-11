@@ -3,3 +3,6 @@ this is my first website
 
 # hello
 my name is amrit gurun
+
+# world
+eath is beautiful world
